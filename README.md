@@ -1,7 +1,7 @@
 # Quail_Data_WTX
 
 ## Dataset Description
-The dataset contains 1781 extracted clips with corresponding labels used in the study of [].
+The dataset contains 1781 extracted clips with corresponding labels used in the paper ["A complete framework for hyperbolic acoustic localization with application to northern bobwhite covey calls"](https://www.sciencedirect.com/science/article/pii/S1574954124004138?via%3Dihub).
 
 
 ## Data format
